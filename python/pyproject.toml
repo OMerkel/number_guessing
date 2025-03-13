@@ -1,0 +1,15 @@
+[project]
+name = "number_guessing"
+version = "0.1.0"
+description = "This is a simple number guessing game."
+authors = [
+    {name = "Oliver Merkel", email = "Merkel.Oliver@web.de"},
+]
+dependencies = ["pytest>=8.3.5", "pytest-cov>=6.0.0"]
+requires-python = "==3.13.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
