@@ -31,7 +31,7 @@ pdm run pytest -v
 Run the unit tests and show line coverage.
 
 ```
-pdm run pytest -v -and show line coverage=.```
+pdm run pytest -v -and show line coverage=.
 ```
 
 Actually play the Number Guessing game.
