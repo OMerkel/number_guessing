@@ -51,7 +51,7 @@ The possible IO side effects of user input and random number generation needs to
 
 Thus a recursive function guess_number is handling the gane play.
 
-```
+```Python
 def guess_number(target, attempts):
     """ Function to guess the number
 
@@ -64,7 +64,7 @@ def guess_number(target, attempts):
 
 A main function is initializing the game play with intended settings.
 
-```
+```Python
 def main(guess_number_call=guess_number, attempts_left=6, max_number=100):
     """ Main function to run the number guessing game
 
