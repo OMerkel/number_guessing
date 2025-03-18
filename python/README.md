@@ -57,7 +57,7 @@ Thus a recursive function guess_number is handling the gane play.
 
 ```Python
 def guess_number(target, attempts):
-    """ Function to guess the number
+    """Function to guess the number
 
     :param target: The number to guess
     :param attempts: Number of attempts left
@@ -70,7 +70,7 @@ A main function is initializing the game play with intended settings.
 
 ```Python
 def main(guess_number_call=guess_number, attempts_left=6, max_number=100):
-    """ Main function to run the number guessing game
+    """Main function to run the number guessing game
 
     :param guess_number_call: Function to guess the number
     :param attempts_left: Number of attempts left
