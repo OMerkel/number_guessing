@@ -1,8 +1,7 @@
 """ Tests for the number_guessing module. """
 # pylint: disable=redefined-outer-name
 # import pytest
-from number_guessing import guess_number
-from number_guessing import main
+from number_guessing import guess_number, main
 
 
 def test_number_guessing_correct(monkeypatch):
