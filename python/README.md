@@ -30,13 +30,13 @@ pdm run pytest -v
 
 Run the unit tests and show line coverage.
 
-```
+```bat
 pdm run pytest -v --cov=.
 ```
 
 Actually play the Number Guessing game.
 
-```
+```bat
 pdm run number_guessing.py
 ```
 
@@ -78,7 +78,7 @@ def main(guess_number_call=guess_number, attempts_left=6, max_number=100):
 
 ## Gherkin / Requirements
 
-```
+```Gherkin
 Feature: Player is guessing a secret number in specified range and gets hints on his guess.
 
 Scenario: Test for correct number guessing
@@ -123,7 +123,7 @@ THEN the function should return False
 
 ```
 
-# Pytest and Test Coverage
+## Pytest and Test Coverage
 
 Find the tests implemented in the directory named _tests_
 
