@@ -4,4 +4,4 @@ This imports modules in tests directory.
 """
 import sys
 
-sys.path.append('.')
+sys.path.append(".")
