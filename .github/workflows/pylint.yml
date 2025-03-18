@@ -24,4 +24,5 @@ jobs:
         lintfiles=$(git ls-files '*.py')
         echo "Files to be pylinted:"
         echo "$lintfiles"
-        echo "$lintfiles" | xargs pylint
+        echo "$lintfiles" | xargs pylint -v
+        echo "$lintfiles" | xargs pylint -r true -v
