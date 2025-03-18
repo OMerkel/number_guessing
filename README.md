@@ -3,6 +3,7 @@
 This is an implementation of the good old Number Guessing game.
 
 [![Super-Linter](https://github.com/OMerkel/number_guessing/actions/workflows/super-linter.yml/badge.svg)](https://github.com/OMerkel/number_guessing/actions/workflows/super-linter.yml)
+[![Flake8 Pytest Coverage](https://github.com/OMerkel/number_guessing/actions/workflows/py_flake8_pytest_cov.yml/badge.svg)](https://github.com/OMerkel/number_guessing/actions/workflows/py_flake8_pytest_cov.yml)
 
 
 ## Rules
