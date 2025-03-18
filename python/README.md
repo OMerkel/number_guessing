@@ -14,7 +14,7 @@ Assumed you have Python 3 installed you can issue the following commands.
 
 Prepare your environment and install site packages.
 
-```
+```bat
 python -m venv venv
 venv\Scripts\activate
 python -m pip install --upgrade pip
@@ -24,7 +24,7 @@ pdm update
 
 Run the unit tests only.
 
-```
+```bat
 pdm run pytest -v
 ```
 
