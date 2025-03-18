@@ -2,6 +2,9 @@
 
 This is an implementation of the good old Number Guessing game.
 
+[![Super-Linter](https://github.com/OMerkel/number_guessing/actions/workflows/super-linter.yml/badge.svg)](https://github.com/OMerkel/number_guessing/actions/workflows/super-linter.yml)
+
+
 ## Rules
 
 * The player has to guess a number between 1 and 100.
