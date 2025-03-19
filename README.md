@@ -8,9 +8,9 @@ This is an implementation of the good old Number Guessing game.
 
 ## Rules
 
-* The player has to guess a number between 1 and 100.
-* The player has a maximum of 6 attempts to guess the number.
-* Hints are provided when the player's guess is too high or too low.
+- The player has to guess a number between 1 and 100.
+- The player has a maximum of 6 attempts to guess the number.
+- Hints are provided when the player's guess is too high or too low.
 
 ## Subdirectory Python
 
