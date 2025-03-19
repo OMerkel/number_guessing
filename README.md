@@ -6,7 +6,6 @@ This is an implementation of the good old Number Guessing game.
 [![Flake8 Pytest Coverage](https://github.com/OMerkel/number_guessing/actions/workflows/py_flake8_pytest_cov.yml/badge.svg)](https://github.com/OMerkel/number_guessing/actions/workflows/py_flake8_pytest_cov.yml)
 [![Pylint](https://github.com/OMerkel/number_guessing/actions/workflows/pylint.yml/badge.svg)](https://github.com/OMerkel/number_guessing/actions/workflows/pylint.yml)
 
-
 ## Rules
 
 * The player has to guess a number between 1 and 100.
