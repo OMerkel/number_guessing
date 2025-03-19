@@ -1,4 +1,4 @@
-"""Tests for the number_guessing module. """
+"""Tests for the number_guessing module."""
 
 # pylint: disable=redefined-outer-name
 # import pytest
