@@ -1,4 +1,5 @@
 """ Tests for the number_guessing module. """
+
 # pylint: disable=redefined-outer-name
 # import pytest
 from number_guessing import guess_number, main
